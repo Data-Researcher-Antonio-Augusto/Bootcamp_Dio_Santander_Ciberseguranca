@@ -11,3 +11,5 @@ Tipo de ataque: Social-Engineering Attacks
 Vetor de ataque: Web Site Attack Vectors
 Método de ataque: Credential Harvester Attack Method 
 Selecione a opçao "web templates" e em seguida a opçao "Google"
+
+
